@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 Chapter2/_*.py
-hahah.py
+ha*.py
