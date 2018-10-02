@@ -103,4 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-_*.py
+_2.031Grab_the_banner.py
+_2.032.py
