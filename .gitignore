@@ -104,4 +104,4 @@ venv.bak/
 .mypy_cache/
 
 _*.py
-ha*.py
+_host_name_Password.py
