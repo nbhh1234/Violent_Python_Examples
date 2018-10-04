@@ -1,0 +1,3 @@
+administrator:password
+admin:12345
+root:toor1

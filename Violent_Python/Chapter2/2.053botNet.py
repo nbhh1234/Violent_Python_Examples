@@ -1,6 +1,6 @@
 # _*_coding:utf8-
 from pexpect import pxssh
-
+import Violent_Python._Config as hnp
 '''
 This we use "class" in Python to Control multiple computers. We can call it a "botnet"
 Note:
@@ -49,7 +49,7 @@ class Client:
         '''
         self.session.sendline(cmd)
         self.session.prompt()  # match the prompt
-        return self.session.before  # print everything before the prompt.
+        return self.session.before  # return everything before the prompt.
 
 
 def botnetCommand(command):
@@ -76,7 +76,7 @@ botNet = []
 
 if __name__ == '__main__':
 
-    addClient('139.199.203.219', 'ubuntu', 'Joker527')
-    addClient('39.107.226.129', 'root', 'Joker527')
+    addClient(hnp.TenCent['host'], hnp.TenCent['user'], hnp.TenCent['password'])
+    addClient(hnp.Ali['host'], hnp.Ali['user'],hnp.Ali['password'])
     botnetCommand('uname -v')
     botnetCommand('cat /etc/issue')

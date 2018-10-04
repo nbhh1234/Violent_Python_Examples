@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe87b11f-026a-4ab4-9569-e055661b1370" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Violent_Python/Chapter2/2.053botNet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Violent_Python/Chapter2/2.053botNet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,13 +13,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Violent_Python_Examples$_2_031Grab_the_banner.coverage" NAME="_2.031Grab_the_banner Coverage Results" MODIFIED="1538460642879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
+    <SUITE FILE_PATH="coverage/Violent_Python_Examples$2_06anonLogin.coverage" NAME="2.06anonLogin Coverage Results" MODIFIED="1538638874931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
     <SUITE FILE_PATH="coverage/Violent_Python_Examples$2_05PexpectSSH.coverage" NAME="2.05PexpectSSH Coverage Results" MODIFIED="1538486862740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
     <SUITE FILE_PATH="coverage/Violent_Python_Examples$crack_SHA512.coverage" NAME="crack_SHA512 Coverage Results" MODIFIED="1538401196450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter1" />
+    <SUITE FILE_PATH="coverage/Violent_Python_Examples$2_061bruteLogin.coverage" NAME="2.061bruteLogin Coverage Results" MODIFIED="1538641591492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
+    <SUITE FILE_PATH="coverage/Violent_Python_Examples$unzip.coverage" NAME="unzip Coverage Results" MODIFIED="1538460887373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter1" />
+    <SUITE FILE_PATH="coverage/Violent_Python_Examples$_2_062defaultpages.coverage" NAME="_2.062defaultpages Coverage Results" MODIFIED="1538653456102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
+    <SUITE FILE_PATH="coverage/Violent_Python_Examples$2_063injectPage.coverage" NAME="2.063injectPage Coverage Results" MODIFIED="1538660596043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
+    <SUITE FILE_PATH="coverage/Violent_Python_Examples$_2_031Grab_the_banner.coverage" NAME="_2.031Grab_the_banner Coverage Results" MODIFIED="1538460642879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
     <SUITE FILE_PATH="coverage/Violent_Python_Examples$2_01optparse.coverage" NAME="2.01optparse Coverage Results" MODIFIED="1538451769902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
     <SUITE FILE_PATH="coverage/Violent_Python_Examples$crack.coverage" NAME="crack Coverage Results" MODIFIED="1538391531804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter1" />
-    <SUITE FILE_PATH="coverage/Violent_Python_Examples$unzip.coverage" NAME="unzip Coverage Results" MODIFIED="1538460887373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter1" />
+    <SUITE FILE_PATH="coverage/Violent_Python_Examples$2_053botNet.coverage" NAME="2.053botNet Coverage Results" MODIFIED="1538637020323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
     <SUITE FILE_PATH="coverage/Violent_Python_Examples$2_03Grab_the_banner.coverage" NAME="2.03Grab_the_banner Coverage Results" MODIFIED="1538456717749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
+    <SUITE FILE_PATH="coverage/Violent_Python_Examples$2_062defaultpages.coverage" NAME="2.062defaultpages Coverage Results" MODIFIED="1538646727298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Violent_Python/Chapter2" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-99279673">
@@ -26,35 +34,41 @@
           <entry key="project.closed" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
-          <entry key="py" value="23" />
-          <entry key="txt" value="2" />
+          <entry key="_host_name_Password" value="1" />
+          <entry key="gitignore" value="4" />
+          <entry key="html" value="1" />
+          <entry key="py" value="29" />
+          <entry key="tmp" value="1" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="23" />
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="9" />
-          <entry key="gitignore" value="42" />
-          <entry key="py" value="15449" />
+          <entry key="dummy" value="16" />
+          <entry key="gitignore" value="49" />
+          <entry key="py" value="25080" />
+          <entry key="txt" value="84" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="51" />
-          <entry key="Python" value="15449" />
+          <entry key="PLAIN_TEXT" value="149" />
+          <entry key="Python" value="25080" />
         </counts>
       </usages-collector>
     </session>
@@ -62,78 +76,115 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.01optparse.py">
+        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.06anonLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="-176">
+              <caret line="12" column="80" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="80" />
+              <folding>
+                <marker date="1538641473853" expanded="true" signature="595:600" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.05PexpectSSH.py">
+        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.061bruteLogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1206">
-              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="148">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
-                <marker date="1538493967643" expanded="true" signature="1089:1094" ph="..." />
-                <marker date="1538493967643" expanded="true" signature="1872:1877" ph="..." />
-                <marker date="1538493967643" expanded="true" signature="2845:2850" ph="..." />
+                <marker date="1538644623696" expanded="true" signature="871:876" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.062defaultpages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+              <folding>
+                <marker date="1538648088948" expanded="true" signature="112:117" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/_2.062defaultpages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+              <folding>
+                <element signature="e#19#32#0" expanded="true" />
+                <marker date="1538657287567" expanded="true" signature="2230:2263" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.063injectPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="44" selection-start-line="44" selection-end-line="56" selection-end-column="47" />
+              <folding>
+                <element signature="e#18#31#0" expanded="true" />
+                <marker date="1538663956798" expanded="true" signature="1366:1371" ph="..." />
+                <marker date="1538663956798" expanded="true" signature="1731:2063" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.053botNet.py">
+        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.064maxxCompromise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+            <state relative-caret-position="295">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
               <folding>
-                <element signature="e#18#33#0" expanded="true" />
-                <marker date="1538493967623" expanded="true" signature="74:79" ph="..." />
-                <marker date="1538493967623" expanded="true" signature="632:637" ph="..." />
-                <marker date="1538493967623" expanded="true" signature="816:821" ph="..." />
+                <element signature="e#18#31#0" expanded="true" />
+                <marker date="1538664193471" expanded="true" signature="86:87" ph="..." />
+                <marker date="1538664193471" expanded="true" signature="86:92" ph="..." />
+                <marker date="1538664193471" expanded="true" signature="2264:3687" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.051sshBrute.py">
+        <entry file="file://$PROJECT_DIR$/data/passwords.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1014">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-              <folding>
-                <marker date="1538493967635" expanded="true" signature="1241:1242" ph="..." />
-                <marker date="1538493967635" expanded="true" signature="1241:1265" ph="..." />
-              </folding>
+            <state relative-caret-position="26">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.03Grab_the_banner.py">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2314">
-              <caret line="91" selection-start-line="91" selection-end-line="91" />
-              <folding>
-                <element signature="e#18#33#0" expanded="true" />
-                <marker date="1538480207369" expanded="true" signature="636:641" ph="..." />
-                <marker date="1538480207369" expanded="true" signature="1430:1435" ph="..." />
-              </folding>
+            <state relative-caret-position="413">
+              <caret line="107" column="6" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.04Nmap.py">
+        <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/userpass.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="962">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
-              <folding>
-                <element signature="e#18#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="52">
+              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Violent_Python/_Config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -150,6 +201,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>print</find>
+      <find>2.02connScan_portScan.py</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,12 +221,20 @@
         <option value="$PROJECT_DIR$/Violent_Python/Chapter2/_2.032.py" />
         <option value="$PROJECT_DIR$/Violent_Python/Chapter2/hahah.py" />
         <option value="$PROJECT_DIR$/Violent_Python/Chapter2/ha123.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.04Nmap.py" />
         <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.051sshBrute.py" />
         <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.052sshZombies.py" />
-        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.053botNet.py" />
         <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.05PexpectSSH.py" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/_host_name_Password.py" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.053botNet.py" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.06anonLogin.py" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.061bruteLogin.py" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.062defaultpages.py" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/_2.062defaultpages.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.063injectPage.py" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/userpass.txt" />
+        <option value="$PROJECT_DIR$/Violent_Python/Chapter2/2.064maxxCompromise.py" />
       </list>
     </option>
   </component>
@@ -185,10 +245,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="25" />
-    <option name="y" value="44" />
-    <option name="width" value="1510" />
-    <option name="height" value="947" />
+    <option name="x" value="173" />
+    <option name="y" value="76" />
+    <option name="width" value="1502" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -198,7 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,6 +291,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,6 +300,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Violent_Python" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,8 +318,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.05PexpectSSH">
-    <configuration name="2.01optparse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2.063injectPage">
+    <configuration name="2.061bruteLogin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Violent_Python_Examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,7 +332,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/2.01optparse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/2.061bruteLogin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.03Grab_the_banner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.062defaultpages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Violent_Python_Examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,7 +354,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/2.03Grab_the_banner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/2.062defaultpages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -298,7 +363,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.05PexpectSSH" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.063injectPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Violent_Python_Examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,7 +376,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/2.05PexpectSSH.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/2.063injectPage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,7 +385,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_2.031Grab_the_banner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.06anonLogin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Violent_Python_Examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -333,7 +398,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/_2.031Grab_the_banner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/2.06anonLogin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -342,7 +407,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unzip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="_2.062defaultpages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Violent_Python_Examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -350,12 +415,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Violent_Python/Chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Violent_Python/Chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter1/unzip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Violent_Python/Chapter2/_2.062defaultpages.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,19 +430,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.unzip" />
-      <item itemvalue="Python.2.01optparse" />
-      <item itemvalue="Python.2.03Grab_the_banner" />
-      <item itemvalue="Python._2.031Grab_the_banner" />
-      <item itemvalue="Python.2.05PexpectSSH" />
+      <item itemvalue="Python.2.06anonLogin" />
+      <item itemvalue="Python.2.061bruteLogin" />
+      <item itemvalue="Python.2.062defaultpages" />
+      <item itemvalue="Python._2.062defaultpages" />
+      <item itemvalue="Python.2.063injectPage" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.05PexpectSSH" />
-        <item itemvalue="Python.unzip" />
-        <item itemvalue="Python._2.031Grab_the_banner" />
-        <item itemvalue="Python.2.03Grab_the_banner" />
-        <item itemvalue="Python.2.01optparse" />
+        <item itemvalue="Python.2.063injectPage" />
+        <item itemvalue="Python._2.062defaultpages" />
+        <item itemvalue="Python.2.062defaultpages" />
+        <item itemvalue="Python.2.061bruteLogin" />
+        <item itemvalue="Python.2.06anonLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -394,24 +459,33 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="25" y="44" width="1349" height="848" extended-state="0" />
+    <frame x="173" y="76" width="1502" height="920" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19953953" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18131869" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995971" weight="0.31888112" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32909784" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995971" weight="0.32909784" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39898348" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004029" side_tool="true" weight="0.32880846" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31328672" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5004029" side_tool="true" weight="0.32880846" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27446" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32909784" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -457,13 +531,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/passwords.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter1/crack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -485,13 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
           <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2756">
-          <caret line="106" column="6" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -520,6 +580,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.05PexpectSSH.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2470">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <marker date="1538493967643" expanded="true" signature="1089:1094" ph="..." />
+            <marker date="1538493967643" expanded="true" signature="1872:1877" ph="..." />
+            <marker date="1538493967643" expanded="true" signature="2845:2850" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -556,27 +628,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.05PexpectSSH.py">
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.053botNet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="1456">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
           <folding>
-            <marker date="1538493967643" expanded="true" signature="1089:1094" ph="..." />
-            <marker date="1538493967643" expanded="true" signature="1872:1877" ph="..." />
-            <marker date="1538493967643" expanded="true" signature="2845:2850" ph="..." />
+            <element signature="e#18#43#0" expanded="true" />
+            <marker date="1538638373086" expanded="true" signature="702:707" ph="..." />
+            <marker date="1538638373086" expanded="true" signature="1635:1640" ph="..." />
+            <marker date="1538638373086" expanded="true" signature="1962:1967" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.053botNet.py">
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.061bruteLogin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        <state relative-caret-position="148">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
           <folding>
-            <element signature="e#18#33#0" expanded="true" />
-            <marker date="1538493967623" expanded="true" signature="74:79" ph="..." />
-            <marker date="1538493967623" expanded="true" signature="632:637" ph="..." />
-            <marker date="1538493967623" expanded="true" signature="816:821" ph="..." />
+            <marker date="1538644623696" expanded="true" signature="871:876" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/_2.062defaultpages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding>
+            <element signature="e#19#32#0" expanded="true" />
+            <marker date="1538657287567" expanded="true" signature="2230:2263" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.062defaultpages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding>
+            <marker date="1538648088948" expanded="true" signature="112:117" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.06anonLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="12" column="80" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="80" />
+          <folding>
+            <marker date="1538641473853" expanded="true" signature="595:600" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/_Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/index.html.tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="70" lean-forward="true" selection-start-column="70" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.063injectPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="44" selection-start-line="44" selection-end-line="56" selection-end-column="47" />
+          <folding>
+            <element signature="e#18#31#0" expanded="true" />
+            <marker date="1538663956798" expanded="true" signature="1366:1371" ph="..." />
+            <marker date="1538663956798" expanded="true" signature="1731:2063" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/passwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="107" column="6" selection-start-line="107" selection-start-column="6" selection-end-line="107" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/userpass.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Violent_Python/Chapter2/2.064maxxCompromise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+          <folding>
+            <element signature="e#18#31#0" expanded="true" />
+            <marker date="1538664193471" expanded="true" signature="86:87" ph="..." />
+            <marker date="1538664193471" expanded="true" signature="86:92" ph="..." />
+            <marker date="1538664193471" expanded="true" signature="2264:3687" ph="..." />
           </folding>
         </state>
       </provider>
