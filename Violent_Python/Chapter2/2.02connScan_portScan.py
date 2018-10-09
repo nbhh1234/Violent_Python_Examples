@@ -1,12 +1,11 @@
 # _*_coding:utf8-
+
+from socket import *  # include any func or method
 '''
 This code,we will create connScan func and port Scan
 portScan: accept Host address and Port
 connScan: output Ip address and try links every port
 '''
-
-from socket import *  # include any func or method
-
 
 def connScan(tgtHost, tgtPort):
     '''
