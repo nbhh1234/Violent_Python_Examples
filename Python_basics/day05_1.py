@@ -1,30 +1,26 @@
 # _*_coding:utf8-
+def B1(name3):
+    def B(func):
+        def warp(*args, **kwargs):
+            print name3
+            print 'hahahah'
+            print args
+            print kwargs
+            func(*args, **kwargs)  # A()
 
-def B(func):  # func == A
-    def warp(*args,**kwargs):
-        print 'huwang'
-        print args,kwargs
-        func(*args,**kwargs)  # A(name='yyyy')
-    return warp
+        return warp
 
-@B
-def A(name):
-    print 'hahahah1' + name
+    return B
 
-A(name='yyyyy')
-# @B
-# def C():
-#     print 'heieheiehi1'
-# A()
-# C()
-#
-#
-# def b(func):
-#     def war():
-#         func()
-#         print 'lalala2'
-#     return war()   # == a()
-# def a():
-#     print 'hahaha2'
-#
-# b(a)
+
+@B1('huwang3')
+def A(name, name2):
+    print 'lalalal' + name + name2
+
+
+A(name='huwang', name2='huwang2')
+
+
+@B1('huwang4')
+def C():
+    print 'kkkkkk'
