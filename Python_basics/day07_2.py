@@ -106,3 +106,39 @@ a1 = {'1':1,'2':2,'aa':{1,2}}
 a2 = {}
 a2['Joker'] = 100
 print a2
+
+
+# I/o
+
+path = '/Users/huwang/Desktop/feichangshengqi.txt'
+file = open(path,mode='r',encoding='utf8')
+# lines = file.readlines()
+# print(lines)
+line = file.readline()
+print(line)
+file.close()  # !!!!!
+
+with open(path,'r',encoding='utf8') as f:
+    print(f.readline())
+
+
+##########
+path_save = '/Users/huwang/Desktop/feichangshengqi.txt'
+path = '/Users/huwang/Joker/Case/JokerCase_DATA/python/movies/day01/kaifangX.txt'
+file_save = open(path_save, 'a', encoding='utf8')
+with open(path, 'r', encoding='gbk', errors='ignore') as f:
+    for i in range(100000):
+        line = f.readline().strip('\n').split(',')
+        try:
+            res = line[-2]
+            if '@' in res:
+                file_save.write(res + '\n')
+        except Exception as e:
+            print(e)
+            print(line)
+        #         else:
+        #             print()
+        finally:
+            print('该行以检索完毕')
+
+    file_save.close()
