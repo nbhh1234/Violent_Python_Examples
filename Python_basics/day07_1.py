@@ -42,4 +42,11 @@ def checkCard(card_num):
         print('不合法')
 card_num = '438857601840707'
 checkCard(card_num)
-
+# Deepcopy
+# http://www.pythontutor.com/visualize.html#mode=display
+import copy
+a = [100,1,2,3,[1000,200]]
+b =copy.deepcopy(a)
+print(b)
+a[4][0] = -1
+print(b)
